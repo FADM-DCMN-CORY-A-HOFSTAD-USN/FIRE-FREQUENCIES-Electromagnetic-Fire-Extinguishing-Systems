@@ -6,5 +6,5 @@ Fire can be put out with electromagnetic frequency (sound). The inverse frequenc
 
 ## FireProve Systems
 
-FireProve systems will use directional microphones to capture the frequncy of a detected fire. The FireProve system will use metal speakers to play the inverse frequency of the fire into the flame and heat source. This noise cancelling fire extinguishing system will be usefull for buildings, aviation, mobile use, etc.
+Fire can be put out with electromagnetic frequency (sound). The inverse frequency of the flame would create a null frequency. FireProve systems will use directional microphones to capture the frequncy of a detected fire. The FireProve system will use metal speakers to play the inverse frequency of the fire into the flame and heat source. This noise cancelling fire extinguishing system will be usefull for buildings, aviation, mobile use, etc.
 
